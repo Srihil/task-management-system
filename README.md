@@ -723,22 +723,8 @@ The AI's output is treated like any user input:
    - Verify error message about invalid transition
    - Try: "Delete grocery" with multiple matching tasks
    - Verify list of matches returned
-
-
----
-
-### AI commands not working
-
-**Issue**: AI returns "unknown" action for valid commands
-
-**Solutions**:
-1. Verify Gemini API key is valid
-2. Check API quota/limits
-3. Try simpler commands first ("Create task Test")
-4. Check backend logs for Gemini API errors
-
 ---
 
 **Sahil N**
-- GitHub: 
+- GitHub: https://github.com/Srihil/task-management-system.git
 - LinkedIn: https://www.linkedin.com/in/sahil-n-72b6a7310
