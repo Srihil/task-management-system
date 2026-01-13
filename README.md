@@ -740,5 +740,5 @@ The AI's output is treated like any user input:
 ---
 
 **Sahil N**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your Name](https://linkedin.com/in/yourprofile)
+- GitHub: 
+- LinkedIn: https://www.linkedin.com/in/sahil-n-72b6a7310
